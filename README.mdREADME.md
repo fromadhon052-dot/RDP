@@ -29,3 +29,4 @@ part.TouchEnded:Connect(function(hit)
         touchCount = 0
     end
 end)
+cvhb
