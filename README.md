@@ -1,4 +1,4 @@
-local part = script.Parent
+local part = script.Parent)
 local sparkles = nil
 local touchCount = 0
 
